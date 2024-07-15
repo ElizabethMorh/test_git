@@ -4,4 +4,8 @@ second
 
 third
 
+<<<<<<< HEAD
 fourth remote change
+=======
+fourth remote 
+>>>>>>> b40c41867fb7c1356fd1c210f892b6f7cf4f667a
